@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>no walls, only windmills...</title>
+		<link>http://odsogunro.github.io/</link>
+		<description>...</description>
+		<category>analytics, big data, internet of things, research, sensors, streaming, wireless</category>
+		<language>en-us</language>
+		<image>
+			<url>http://...jpg</url>
+			<title></title>
+			<link>http://...com</link>
+		</image>
+		<skipDays>
+			<day>saturday</day>
+			<day>sunday</day>
+		</skipDays>
+		<textinput>
+			<description>site search</description>
+			<title>site search</title>
+			<link>http://...com/search?</link>
+			<name>q</name>
+		</textinput>
+		<item>
+			<title></title>
+			<link></link>
+			<description></description>
+		</item>
+	</channel>
+</rss>
