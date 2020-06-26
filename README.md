@@ -1,6 +1,13 @@
 # odsogunro.github.io
-author: dami
-title: r-cubed 
+
+### author: odsogunro
+### title: r-cubed 
+
+```
+```
+* https://odsogunro.github.io/
+    * https://odsogunro.github.io/about/
+    * https://odsogunro.github.io/blog/jekyll/update/2020/06/25/welcome-to-jekyll.html    
 
 ```
 ```
