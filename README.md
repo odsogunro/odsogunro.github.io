@@ -9,6 +9,8 @@
     * https://odsogunro.github.io/about/
     * https://odsogunro.github.io/blog/jekyll/update/2020/06/25/welcome-to-jekyll.html    
 
+* https://odsogunro.github.io/damiCV.html
+
 ```
 ```
 * https://jekyllrb.com/
