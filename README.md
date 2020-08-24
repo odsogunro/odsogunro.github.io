@@ -18,6 +18,13 @@ CV
 Research
 - Blog
     - ...
+
+- Conference Rankings
+    - http://portal.core.edu.au/conf-ranks/
+        - IEEE SIS
+        - IEEE KIMAS
+        -  
+
 - Publications
     - Post-2007
         - ...
