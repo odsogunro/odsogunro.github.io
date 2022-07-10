@@ -1,15 +1,17 @@
 ---
 permalink: /
 title: "odsogunro"
-excerpt: "About me"
+excerpt: "about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!--
 About Me
-======
+====== 
+-->
 I am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy). 
 
 
