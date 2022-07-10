@@ -86,10 +86,10 @@ author:
   location         : "Location"
   employer         : # "Department of Energy"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=pVcs08QAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=pVcs08QAAAAJ&hl=en"
   email            : "dami [DOT] kazeem [AT] gmail [DOT] com"
-  researchgate     : "https://www.researchgate.net/profile/O-Kazeem"
-  uri              : "https://odsogunro.github.io"
+  researchgate     : # "https://www.researchgate.net/profile/O-Kazeem"
+  uri              : # "https://odsogunro.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : "https://profiles.impactstory.org/u/0000-0003-2118-2221"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/damikazeem/"
+  linkedin         : # "https://www.linkedin.com/in/damikazeem/"
   orcid            : "http://orcid.org/0000-0003-2118-2221"
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/1378569/odsogunro?tab=profile
   steam            :
   tumblr           :
-  twitter          : "odsogunro"
+  twitter          : # "odsogunro"
   vine             :
   weibo            :
   xing             :
