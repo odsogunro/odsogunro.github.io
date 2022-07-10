@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "odsogunro - there are no walls, only windmills... - ubuntu"
+title                    : "Ọ́lọ̀rundámilọ̀lá 'Dámi' Kazeem"
 title_separator          : "-"
 name                     : &name "Ọ́lọ̀rundámilọ̀lá 'Dámi' Kazeem"
 description              : &description "Ubuntu Philosopher/PhD Student @ The Johns Hopkins University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ọ́lọ̀rundámilọ̀lá 'Dámi' Kazeem"
   avatar           : "profile.png"
-  bio              : "NOTE: SITE IS UNDER CONSTRUCTION"
+  bio              : "NOTE: SITE IS UNDER CONSTRUCTION - Dámi pronounced Dommy - odsogunro - there are no walls, only windmills... - ubuntu"
   location         : # "Location"
   employer         : # "Department of Energy"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
