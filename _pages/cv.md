@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
-# permalink: /files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf
+# permalink: /cv/
+permalink: /files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <!-- 
 Education
