@@ -1,12 +1,13 @@
 ---
 layout: archive
 title: "CV"
-# permalink: /cv/
-permalink: /files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+[Curriculum Vitae](https://odsogunro.github.io/files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf)
 
 <!-- {% include base_path %} -->
 
