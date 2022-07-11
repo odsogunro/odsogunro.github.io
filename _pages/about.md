@@ -19,11 +19,15 @@ I am a Fellow of the [Department of Energy Computational Science Graduate Fellow
 
 current research
 ======
-TBD...
+## speech emotion recognition
+
+...
 
 past research
 ======
-TBD...
+## swarm intelligence
+
+...
 
 <!-- 
 Current Research
