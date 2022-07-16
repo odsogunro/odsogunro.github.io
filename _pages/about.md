@@ -8,26 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-About Me
+
+Dami here!
 ====== 
--->
+
 <!-- 
-I am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
+i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
 -->
 
 
-I am a Fellow of the [Department of Energy Computational Science Graduate Fellowship (DOE CSGF)](https://www.krellinst.org/csgf/) and of [The National GEM Consortium (GEM)](https://www.gemfellowship.org). I am an Honorable Mentonee of the [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://nsfgrfp.org) Program. I am a PhD Student in the Whiting School of Engineering at The Johns Hopkins University, where I am affiliated with the [Human Language Technology Center of Excellence (HLTCOE)](https://hltcoe.jhu.edu) and the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu). I am under the [Department of Electrical and Computer Engineering (ECE)](https://engineering.jhu.edu/ece/), where I am a member of [Najim Dehak's Laboratory](https://engineering.jhu.edu/najim/index.html).
+I am a Fellow of the [Department of Energy Computational Science Graduate Fellowship (DOE CSGF)](https://www.krellinst.org/csgf/) and of [The National GEM Consortium (GEM)](https://www.gemfellowship.org). I am an Honorable Mentonee of the [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://nsfgrfp.org) Program. I am a PhD Student in the Whiting School of Engineering at The Johns Hopkins University, where I am affiliated with the [Human Language Technology Center of Excellence (HLTCOE)](https://hltcoe.jhu.edu) and the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu). I am under the [Department of Electrical and Computer Engineering (ECE)](https://engineering.jhu.edu/ece/), where I work in [Najim Dehak's Laboratory](https://engineering.jhu.edu/najim/index.html).
 
-current research
+```
+```
+
+Current Research
 ======
-## speech emotion recognition
+### Speech Emotion Recognition
 
 ...
 
-past research
+```
+```
+
+Past Research
 ======
-## swarm intelligence
+### Swarm Intelligence
 
 ...
 
