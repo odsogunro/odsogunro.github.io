@@ -42,7 +42,7 @@ News
 
 - July: Attended the 2022 DOE CSGF Annual Program Review. The first in-person meeting since COVID! [*](https://www.krellinst.org/csgf/conf/2022)
 
-- June: Attended the 2022 JHU Summer School on Human Language Technology (JSALT). [*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/).
+- June: Attended the 2022 JHU Summer School on Human Language Technology (JSALT). [*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/)
 
 <!-- - ... -->
 
