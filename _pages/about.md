@@ -48,7 +48,7 @@ News
 
 2021 
 
-- June-August: Particiapted in the 2021 HLTCOE Summer Camp for Applied Language Expolration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
+- June-August: Particiapted in the 2021 HLTCOE Summer Camp for Applied Language Exploration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
 
 <!-- 
 - May: ...
