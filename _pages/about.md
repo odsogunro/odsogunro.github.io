@@ -28,13 +28,13 @@ My current research focus resides in automatic speech emotion recognition. In th
 ```
 ```
 
-
+<!-- 
 CV
 =====
 - [Curriculum Vitae - Last Updated 20220101](https://odsogunro.github.io/files/OlorundamilolaKazeemCurriculumVitae_20220101.pdf)
 
 ```
-```
+``` -->
 
 News
 =====
