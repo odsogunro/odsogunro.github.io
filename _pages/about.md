@@ -31,7 +31,7 @@ My current research focus resides in automatic speech emotion recognition. In th
 
 CV
 =====
-- [Curriculum Vitae - Last Updated 20210927](https://odsogunro.github.io/files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf)
+- [Curriculum Vitae - Last Updated 20220101](https://odsogunro.github.io/files/OlorundamilolaKazeemCurriculumVitae_20220101.pdf)
 
 ```
 ```
@@ -48,7 +48,7 @@ News
 
 2021 
 
-- June-August: Particiapted in the 2021 HLTCOE Summer Camp for Applied Language Exploration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
+- June-August: Participated in the 2021 HLTCOE Summer Camp for Applied Language Exploration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). I worked on the Data De-Duplication Team. [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
 
 <!-- 
 - May: ...
