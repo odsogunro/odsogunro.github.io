@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     # url: /files/OlorundamilolaKazeemCurriculumVitae_20210927.pdf
   # - title: "Posters"
   #   url: /posters/
