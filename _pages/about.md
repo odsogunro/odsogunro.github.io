@@ -39,17 +39,22 @@ CV
 News
 =====
 2022 
-- July: Attended the 2022 DOE CSGF Annual Program Review. The first in-person meeting since COVID!
-- June: Attended the 2022 JHU Summer School on Human Language Technology [(JSALT)](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/).
+
+- July: Attended the 2022 DOE CSGF Annual Program Review. The first in-person meeting since COVID! [*](https://www.krellinst.org/csgf/conf/2022)
+
+- June: Attended the 2022 JHU Summer School on Human Language Technology (JSALT). [*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/).
+
 <!-- - ... -->
 
 2021 
 
-- June-August: Particiapted in the 2021 HLTCOE Summer Camp for Applied Language Expolration (SCALE). 2021's topic was Cross Language Information Retrieval [(CLIR)]( https://hltcoe.jhu.edu/research/scale/scale-2021/).
+- June-August: Particiapted in the 2021 HLTCOE Summer Camp for Applied Language Expolration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
 
-<!-- - May: ...
+<!-- 
+- May: ...
 
-- April: ... -->
+- April: ...
+ -->
 
 
 ```
