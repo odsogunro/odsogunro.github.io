@@ -86,7 +86,7 @@ author:
   location         : # "Location"
   employer         : # "Department of Energy"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=pVcs08QAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=pVcs08QAAAAJ&hl=en"
   email            : "dami [DOT] kazeem [AT] gmail [DOT] com"
   researchgate     : # "https://www.researchgate.net/profile/O-Kazeem"
   uri              : # "https://odsogunro.github.io"
