@@ -19,9 +19,11 @@ i am. brother. husband. friend. founder. researcher. thinker. builder. engineer.
 -->
 
 
-I am a Fellow of the [Department of Energy Computational Science Graduate Fellowship (DOE CSGF)](https://www.krellinst.org/csgf/) and of [The National GEM Consortium (GEM)](https://www.gemfellowship.org). I am an Honorable Mentonee of the [National Science Foundation Graduate Research Fellowship (NSF GRFP)](https://nsfgrfp.org) Program. 
+I am a first-year Fellow of the Department of Energy Computational Science Graduate Fellowship (DOE CSGF)[*](https://www.krellinst.org/csgf/) and a Fellow of the The National GEM Consortium (GEM)[*](https://www.gemfellowship.org). I am also an Honorable Mentonee of the National Science Foundation Graduate Research Fellowship (NSF GRFP)[*](https://nsfgrfp.org) Program. 
 
-I am a first-year PhD Student in the Whiting School of Engineering at The Johns Hopkins University, where I am affiliated with the [Human Language Technology Center of Excellence (HLTCOE)](https://hltcoe.jhu.edu) and the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu). I am under the [Department of Electrical and Computer Engineering (ECE)](https://engineering.jhu.edu/ece/), where I work in [Najim Dehak's Laboratory](https://engineering.jhu.edu/najim/index.html).
+I am a first-year PhD Student in the Whiting School of Engineering at The Johns Hopkins University, where I am affiliated with the Human Language Technology Center of Excellence (HLTCOE)[*](https://hltcoe.jhu.edu) and the Center for Language and Speech Processing (CLSP)[*](https://www.clsp.jhu.edu). I am under the Department of Electrical and Computer Engineering (ECE)[*](https://engineering.jhu.edu/ece/), where I work in Najim Dehak's Laboratory[*](https://engineering.jhu.edu/najim/index.html).
+
+I graduated from Stevens Institute of Technology[*](https://www.stevens.edu) with a M.Eng. in Computer Engineering. Prior to that, I graduated from a joint university dual-degree program; New York University[*](https://www.nyu.edu) with a B.Sc. in Mathematics and Stevens Institute of Technology with a B.Eng. in Electrical Engineering.
 
 My current research focus resides in automatic speech emotion recognition. In the past, I did research in bio-inspired swarm intelligence. In my off-season, I enjoy cooking, traveling, and watching sci-fi movies.
 
