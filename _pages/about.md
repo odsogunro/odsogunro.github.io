@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-Dami here!
-====== 
+<!-- Dami here!
+======  
+-->
 
 <!-- 
 i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
