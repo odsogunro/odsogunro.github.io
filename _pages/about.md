@@ -43,20 +43,26 @@ News
 =====
 2022 
 
-- July: Attended the 2022 DOE CSGF Annual Program Review. The first in-person meeting since COVID! [*](https://www.krellinst.org/csgf/conf/2022)
+- July: 
+  - Attended the Johns Hopkins Congressional Briefing: Artificial Intelligence. In-Virtual Mode[*](https://hub.jhu.edu/johns-hopkins-congressional-briefing-series/)
+  - Attended the 2022 DOE CSGF Annual Program Review. The first in-person meeting since COVID! In-Person Mode[*](https://www.krellinst.org/csgf/conf/2022)
 
-- June: Attended the 2022 JHU Summer School on Human Language Technology (JSALT). [*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/)
+- June: 
+  - Attended the 2022 JHU Summer School on Human Language Technology (JSALT). In-Person Mode[*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/)
 
 <!-- - ... -->
 
 2021 
 
-- June-August: Participated in the 2021 HLTCOE Summer Camp for Applied Language Exploration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). I worked on the Data De-Duplication Team. [*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
+- June-August: 
+  - Participated in the 2021 HLTCOE Summer Camp for Applied Language Exploration (SCALE). 2021's topic was Cross Language Information Retrieval (CLIR). I worked on the Data De-Duplication Team. In-Virtual Mode[*](https://hltcoe.jhu.edu/research/scale/scale-2021/)
 
 
-- May: Awarded the Department of Energy Computational Science Graduate Fellowship (DOE CSGF)[+](https://www.krellinst.org/csgf)
+- May: 
+  - Awarded the Department of Energy Computational Science Graduate Fellowship (DOE CSGF)[+](https://www.krellinst.org/csgf)
  
-- April: Awarded the The National GEM Consortium (GEM) Fellowship[+](https://www.gemfellowship.org)
+- April: 
+  - Awarded the The National GEM Consortium (GEM) Fellowship[+](https://www.gemfellowship.org)
 
 
 
