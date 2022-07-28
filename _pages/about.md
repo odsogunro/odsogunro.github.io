@@ -26,7 +26,7 @@ I am a first-year PhD Student in the Whiting School of Engineering at The Johns 
 
 I graduated from Stevens Institute of Technology[+](https://www.stevens.edu) with a M.Eng. in Computer Engineering. Prior to that, I graduated from a joint university dual-degree program; New York University[+](https://www.nyu.edu) with a B.Sc. in Mathematics and Stevens Institute of Technology with a B.Eng. in Electrical Engineering.
 
-My current research focus resides in affective (not effective) computing and speech emotion recognition. In the past, I did research in bio-inspired swarm intelligence. In my off-season, I enjoy cooking, traveling, and watching sci-fi movies.
+My current research focus resides in affective (not effective) computing[~](https://en.wikipedia.org/wiki/Affective_computing) and speech emotion recognition. In the past, I did research in bio-inspired swarm intelligence. In my off-season, I enjoy cooking, traveling, and watching sci-fi movies.
 
 ```
 ```
