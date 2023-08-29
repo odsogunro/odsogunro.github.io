@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-<!-- 
-Dami here!
-======  
--->
 
+Olorundamilola A. 'Dami' Kazeem S. is here!
+======  
+- olorundamilola pronounced uh-luh-roon-dah-mee-luh-lah
+- ...
 <!-- 
 i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
 -->
