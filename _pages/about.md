@@ -18,7 +18,6 @@ Dami here!
 i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
 -->
 
-Site Under Construction!
 <!--
 I am a first-year Fellow of the Department of Energy Computational Science Graduate Fellowship (DOE CSGF)[+](https://www.krellinst.org/csgf) and a Fellow of the The National GEM Consortium (GEM)[+](https://www.gemfellowship.org). I am also an Honorable Mentonee of the National Science Foundation Graduate Research Fellowship (NSF GRFP)[+](https://nsfgrfp.org) Program. 
 
