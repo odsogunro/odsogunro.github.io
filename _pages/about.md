@@ -18,15 +18,19 @@ Dami here!
 i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
 -->
 
+Site Under Construction!
 <!--
 I am a first-year Fellow of the Department of Energy Computational Science Graduate Fellowship (DOE CSGF)[+](https://www.krellinst.org/csgf) and a Fellow of the The National GEM Consortium (GEM)[+](https://www.gemfellowship.org). I am also an Honorable Mentonee of the National Science Foundation Graduate Research Fellowship (NSF GRFP)[+](https://nsfgrfp.org) Program. 
 
 I am a first-year PhD Student in the Whiting School of Engineering at The Johns Hopkins University[+](https://engineering.jhu.edu), where I am affiliated with the Human Language Technology Center of Excellence (HLTCOE)[+](https://hltcoe.jhu.edu) and the Center for Language and Speech Processing (CLSP)[+](https://www.clsp.jhu.edu). I am under the Department of Electrical and Computer Engineering (ECE)[+](https://engineering.jhu.edu/ece/).
- , where I work in Najim Dehak's Laboratory[+](https://engineering.jhu.edu/najim/index.html). -->
+ , where I work in Najim Dehak's Laboratory[+](https://engineering.jhu.edu/najim/index.html).
 
 I graduated from Stevens Institute of Technology[+](https://www.stevens.edu) with a M.Eng. in Computer Engineering. Prior to that, I graduated from a joint university dual-degree program; New York University[+](https://www.nyu.edu) with a B.Sc. in Mathematics and Stevens Institute of Technology with a B.Eng. in Electrical Engineering.
 
-My current research focus resides in affective (not effective) computing[~](https://en.wikipedia.org/wiki/Affective_computing) and emotion recognition[~](https://en.wikipedia.org/wiki/Emotion_recognition). In the past, I did research in bio-inspired swarm intelligence[~](https://en.wikipedia.org/wiki/Swarm_intelligence). In my off-times, I love cooking[~](...), traveling[~](...) , listening to music [~](...) and watching sci-fi movies[~](https://www.imdb.com/user/ur89197913/).
+My current research ...
+
+In the past, I did research in bio-inspired swarm intelligence[~](https://en.wikipedia.org/wiki/Swarm_intelligence). In my off-times, I love cooking[~](...), traveling[~](...) , listening to music [~](...) and watching sci-fi movies[~](https://www.imdb.com/user/ur89197913/).
+ -->
 
 ```
 ```
@@ -37,11 +41,18 @@ CV
 - [Curriculum Vitae - Last Updated 20220101](https://odsogunro.github.io/files/OlorundamilolaKazeemCurriculumVitae_20220101.pdf)
 
 ```
-``` -->
+``` 
+-->
 
 News
 =====
+2023
+- ...
+
+<!--
 2022 
+- November:
+  - Attended SC22 ...
 
 - July: 
   - Attended the Johns Hopkins Congressional Briefing: Artificial Intelligence. In-Virtual Mode[*](https://hub.jhu.edu/johns-hopkins-congressional-briefing-series/)
@@ -50,7 +61,8 @@ News
 - June: 
   - Attended the 2022 JHU Summer School on Human Language Technology (JSALT). In-Person Mode[*](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/2022-workshop-schedule/)
 
-<!-- - ... -->
+
+
 
 2021 
 
@@ -64,6 +76,7 @@ News
 - April: 
   - Awarded the The National GEM Consortium (GEM) Fellowship[+](https://www.gemfellowship.org)
 
+-->
 
 
 ```
