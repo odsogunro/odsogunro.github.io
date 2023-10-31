@@ -10,9 +10,15 @@ redirect_from:
 
 
 
-Olorundamilola A. 'Dami' Kazeem S. is here!
+<!-- Olorundamilola A. 'Dami' Kazeem S. is here! -->
 ======  
-- olorundamilola pronounced uh-luh-roon-dah-mee-luh-lah
+Ubuntu, Dami
+
+Ọ̀lọ́rundámilọ́lá 'Dámi' Kazeem
+
+Pronounced:
+Uh-luh-roon-dah-mee-luh-lah ‘Dah-mee’ Kah-zee-mmm
+
 - ...
 <!-- 
 i am. brother. husband. friend. founder. researcher. thinker. builder. engineer. designer. scientist. forever a student. there are no walls, only windmills... [ubuntu to you and yours]( https://en.wikipedia.org/wiki/Ubuntu_philosophy).  
@@ -45,7 +51,7 @@ CV
 
 News
 =====
-2023
+<!-- 2023 -->
 - ...
 
 <!--
