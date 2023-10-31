@@ -10,10 +10,8 @@ redirect_from:
 
 
 
-<!-- Olorundamilola A. 'Dami' Kazeem S. is here! -->
+Ubuntu, Dámi
 ======  
-Ubuntu, Dami
-
 Ọ̀lọ́rundámilọ́lá 'Dámi' Kazeem
 
 Pronounced:
