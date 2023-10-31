@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ọ́lọ̀rundámilọ̀lá 'Dámi' Kazeem"
+title                    : "Ọ̀lọ́rundámilọ́lá ‘Dámi’ Kazeem"
 title_separator          : "-"
-name                     : &name "Ọ́lọ̀rundámilọ̀lá 'Dámi' Kazeem"
+name                     : &name "Dámi"
 description              : &description "Ubuntu Philosopher/PhD Student @ The Johns Hopkins University"
 url                      : https://odsogunro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
