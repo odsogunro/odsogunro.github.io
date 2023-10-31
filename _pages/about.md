@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-
+```
+```
 Ubuntu, Dámi
-======  
-Ọ̀lọ́rundámilọ́lá 'Dámi' Kazeem
+=====
 
-Pronounced:
+Ọ̀lọ́rundámilọ́lá 'Dámi' Kazeem <br>
+<b>Pronounced: <br></b>
 Uh-luh-roon-dah-mee-luh-lah ‘Dah-mee’ Kah-zee-mmm
 
 - ...
