@@ -13,6 +13,7 @@ $
 - https://quarto.org/docs/gallery/#websites
 
 ```
+$
 ```
 
 ### examples:
@@ -32,4 +33,5 @@ $
 - https://m.canouil.dev/quarto-extensions/index.html
 
 ```
+$
 ```
