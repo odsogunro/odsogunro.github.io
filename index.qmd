@@ -12,12 +12,15 @@ There are no walls, only windmills...
 
 **Current Researh Interests:**
 
-- Infant-Inspired Spoken Language Acquisition
-- Low-Resource Speech Processing
-- ...
+Infant-Inspired Spoken Language Acquisition
+
+- Questions Being Explored 
+    - How do infants acquire spoken language? 
+    - How can a machine acquire spoken language like infants?
 
 **Other Research Interests:**
 
+- Low Resource Languages
 - Mathematical Machine Learning
 - Quantum Speech Representations
 - Swarm Intelligence  
