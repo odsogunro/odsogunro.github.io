@@ -1,5 +1,6 @@
 ---
-title: "odsogunro.github.io"
+title: "Ọ̀lọ́rundámilọ́lá 'Dámi'  Kazeem"
+subtitle: "Uhh-luh-roon-dah-mee-luh-lah ‘dAH-mEE’ Kah-zee-mmm"
 ---
 
 NOTE: This site is under construction. 
@@ -9,13 +10,19 @@ There are no walls, only windmills...
 
 ---
 
-Current Researh Interests:
+**Current Researh Interests:**
+
 - Infant-Inspired Spoken Language Acquisition
 - Low-Resource Speech Processing
 - ...
 
-Other Research Interests
+**Other Research Interests:**
+
 - Mathematical Machine Learning
 - Quantum Speech Representations
 - Swarm Intelligence  
 - ...
+
+**Contact:**
+
+email: ude [tod] yelekreb [ta] imad
