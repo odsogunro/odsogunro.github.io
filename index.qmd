@@ -6,3 +6,16 @@ NOTE: This site is under construction.
 
 There are no walls, only windmills... 
                                 --Dami
+
+---
+
+Current Researh Interests:
+- Infant-Inspired Spoken Language Acquisition
+- Low-Resource Speech Processing
+- ...
+
+Other Research Interests
+- Mathematical Machine Learning
+- Quantum Speech Representations
+- Swarm Intelligence  
+- ...
