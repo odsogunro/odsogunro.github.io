@@ -1,32 +1,23 @@
 ---
-title: "Ọ̀lọ́rundámilọ́lá 'Dámi'  Kazeem"
-subtitle: "Uhh-luh-roon-dah-mee-luh-lah ‘dAH-mEE’ Kah-zee-mmm"
+title: "Ọ̀lọ́rundámilọ́lá A. 'Dámi'  Kazeem S."
+subtitle: "uHH-lUH-rOOn-dAH-mEE-lUH-lAH A. ‘dAH-mEE’ kAH-zEE-mMM S."
 ---
 
 NOTE: This site is under construction. 
 
-There are no walls, only windmills... 
-                                --Dami
+"There are no walls, only windmills..."  --Dami
 
 ---
 
 **Current Researh Interests:**
 
-Infant-Inspired Spoken Language Acquisition
-
-- Questions Being Explored 
-    - How do infants acquire spoken language? 
-    - How can machines acquire spoken language like infants?
+Spoken Language Acquisition.
 
 **Other Research Interests:**
 
 Stranger Things...
-<!-- - Low Resource Languages -->
-<!-- - Mathematical Machine Learning -->
-<!-- - Quantum Speech Representations -->
-<!-- - Swarm Intelligence   -->
-<!-- - ... -->
+
 
 **Contact:**
 
-email: ude [tod] yelekreb [ta] imad
+Email: Take the short version of my name (starts with ‘d’) at a university in the Bay Area, ending in dot edu.
