@@ -451,3 +451,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,r,ruby,python,emacs,vim,visualstudiocode
+
+**/*.quarto_ipynb

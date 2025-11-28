@@ -3,10 +3,10 @@ title: "Ọ̀lọ́rundámilọ́lá A. 'Dámi'  Kazeem S."
 subtitle: "uHH-lUH-rOOn-dAH-mEE-lUH-lAH A. ‘dAH-mEE’ kAH-zEE-mMM S."
 ---
 
-NOTE: This site is under construction. 
-
-"There are no walls, only windmills..."  --Dami
-
+```
+"There are no walls, only windmills..."  
+                                --Dami
+```
 ---
 
 
@@ -18,3 +18,6 @@ Stranger Things...
 
 Take the short version (starts with ‘d’) at a university in the Bay Area, ending in dot edu.
 
+**NOTE:** 
+
+This site is under construction. 
