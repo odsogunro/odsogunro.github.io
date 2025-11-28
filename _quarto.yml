@@ -1,16 +1,41 @@
+# project:
+#   type: website
+#   output-dir: docs  # GitHub Pages requires this to be `docs` or `root` for the default branch
+#   preview: 
+#     port: 1984      # Port for previewing the site locally
+
+# website:
+#   title: "odsogunro.github.io"
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       # - about.qmd
+
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
+
 project:
   type: website
-  output-dir: docs  # GitHub Pages requires this to be `docs` or `root` for the default branch
-  preview: 
-    port: 1984      # Port for previewing the site locally
+  output-dir: docs          # Required for GitHub Pages deployment from /docs
+  preview:
+    port: 1984              # Local preview port
 
 website:
-  title: "odsogunro.github.io"
+  title: "odsogunro"
+  site-url: "https://odsogunro.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      # - about.qmd
+      # Uncomment if you create an About page:
+      # - href: about.qmd
+      #   text: About
 
 format:
   html:
@@ -19,3 +44,4 @@ format:
       - brand
     css: styles.css
     toc: true
+    smooth-scroll: true
